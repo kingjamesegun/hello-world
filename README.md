@@ -1,2 +1,3 @@
-# hello-world
-I just want to know fundamentals
+I'm just happy I use hithub now.
+Well I will improve.
+
